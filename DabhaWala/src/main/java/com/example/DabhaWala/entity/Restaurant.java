@@ -1,5 +1,4 @@
 package com.example.DabhaWala.entity;
-d
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import lombok.*;
